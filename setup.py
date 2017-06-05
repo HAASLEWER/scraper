@@ -17,7 +17,8 @@ requires = [
     'bs4',
     'beautifulsoup',
     'validators',
-    'tld'
+    'tld',
+    'pytest'
 ]
 
 tests_require = [

@@ -1,1 +1,4 @@
-{}
+{
+  "scraper/tests.py::FunctionalTests::test_root": true, 
+  "scraper/tests.py::ViewTests::test_my_view": true
+}

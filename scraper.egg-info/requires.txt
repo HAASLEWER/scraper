@@ -3,9 +3,11 @@ pyramid_chameleon
 pyramid_debugtoolbar
 waitress
 requests
+bs4
 beautifulsoup
 validators
 tld
+pytest
 
 [testing]
 WebTest >= 1.3.1
