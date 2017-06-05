@@ -5,7 +5,7 @@ $(document).ready(function() {
 	// Use ajax to request the scrape from the Pyramid backend
 	$("#search_form").submit(function(e) {	
 		// Define our scrape route
-	    var url = "http://0.0.0.0:6543/scraper";
+	    var url = "http://127.0.0.1:6543/scraper";
 	    // Create our payload with the url entered in the search bar, 
 	    // All validation occurs in pyramid
 	    var payload = JSON.stringify({url: $("#search").val()});	    
