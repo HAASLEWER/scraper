@@ -14,6 +14,7 @@ requires = [
     'pyramid_debugtoolbar',
     'waitress',
     'requests',
+    'bs4',
     'beautifulsoup',
     'validators',
     'tld'
