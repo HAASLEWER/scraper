@@ -18,7 +18,8 @@ requires = [
     'beautifulsoup',
     'validators',
     'tld',
-    'pytest'
+    'pytest',
+    'WebTest >= 1.3.1'
 ]
 
 tests_require = [
