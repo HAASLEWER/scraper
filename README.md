@@ -7,7 +7,7 @@ The live demo can be viewed at: http://188.166.169.128:6543/<br />
 Python 2.7<br />
 pip<br />
 <br />
-# Setup
+# Setup (Tested on Ubuntu 16.04)
 git clone git@github.com:HAASLEWER/scraper.git<br />
 cd scraper<br />
 pip install -e . <br />
