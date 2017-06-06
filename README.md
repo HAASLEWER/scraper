@@ -1,5 +1,7 @@
 # scraper
 a Wikipedia table of contents scraper, built using Pyramid.  Insert a link to a Wikipedia article into the search box at the top and if there is a table of contents the page will be scraped and the table displayed.<br />
+# Live Demo
+The live demo can be viewed at: http://188.166.169.128:6543/<br />
 <br />
 # Dependencies
 Python 2.7<br />
